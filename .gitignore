@@ -1,4 +1,5 @@
 *~
+.idea/*
 *.org
 *.pem
 *.pkl
